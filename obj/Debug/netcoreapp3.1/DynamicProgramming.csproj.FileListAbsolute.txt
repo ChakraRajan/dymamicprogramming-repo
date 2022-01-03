@@ -1,0 +1,13 @@
+D:\VisualStudio\DynamicProgramming\bin\Debug\netcoreapp3.1\DynamicProgramming.exe
+D:\VisualStudio\DynamicProgramming\bin\Debug\netcoreapp3.1\DynamicProgramming.deps.json
+D:\VisualStudio\DynamicProgramming\bin\Debug\netcoreapp3.1\DynamicProgramming.runtimeconfig.json
+D:\VisualStudio\DynamicProgramming\bin\Debug\netcoreapp3.1\DynamicProgramming.runtimeconfig.dev.json
+D:\VisualStudio\DynamicProgramming\bin\Debug\netcoreapp3.1\DynamicProgramming.dll
+D:\VisualStudio\DynamicProgramming\bin\Debug\netcoreapp3.1\DynamicProgramming.pdb
+D:\VisualStudio\DynamicProgramming\obj\Debug\netcoreapp3.1\DynamicProgramming.csprojAssemblyReference.cache
+D:\VisualStudio\DynamicProgramming\obj\Debug\netcoreapp3.1\DynamicProgramming.AssemblyInfoInputs.cache
+D:\VisualStudio\DynamicProgramming\obj\Debug\netcoreapp3.1\DynamicProgramming.AssemblyInfo.cs
+D:\VisualStudio\DynamicProgramming\obj\Debug\netcoreapp3.1\DynamicProgramming.csproj.CoreCompileInputs.cache
+D:\VisualStudio\DynamicProgramming\obj\Debug\netcoreapp3.1\DynamicProgramming.dll
+D:\VisualStudio\DynamicProgramming\obj\Debug\netcoreapp3.1\DynamicProgramming.pdb
+D:\VisualStudio\DynamicProgramming\obj\Debug\netcoreapp3.1\DynamicProgramming.genruntimeconfig.cache
